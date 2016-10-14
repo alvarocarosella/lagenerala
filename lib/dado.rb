@@ -19,6 +19,6 @@ class Dado
 			numero = @valor
 			@valor = 0
 		end
-		return numero
+		return numero	
 	end
 end
